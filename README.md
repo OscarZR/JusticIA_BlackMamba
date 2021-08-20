@@ -19,3 +19,6 @@
 </ul>
 <h3> Cómo correr el código </h3>
 El notebook ya tiene la ruta de seguimiento necesaria para correrse por sí solo.
+
+<h3> Notas </h3>
+<h4>Enlace a carpeta de drive donde se encuentra todo lo utilizado: https://drive.google.com/drive/folders/1rtx_Fw-v6zeoz5ZGZsAtJArLs8wJzvT6?usp=sharing</h4>

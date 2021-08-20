@@ -10,7 +10,8 @@
   <li> Emilio Villa Cueva </li>
 </ul>
 <h3> Descripción </h3>
-<h4> En este repositorio se encuentra el notebook utilizado para la realzación del proyecto, además de los archivos usados para la implementación y los archivos generados por el script </h4>
+<h4> En este repositorio se encuentra el notebook utilizado para la realzación del proyecto, además de los archivos usados para la implementación y los archivos generados por el script.</h4>
+<h4>Objetivo: proponer y desarrollar un flujo de pre-procesamiento para mejorar la calidad de las imágenes y detectar los objetos que componen la imagen, su ubicación y clasificación por similitud de acuerdo a categorías generales incluyendo sellos, firmas, texto a mano, texto a máquina y fotografías.</h4>
 <h3> Pipeline </h3>
 <ul>
   <li> Obtención de datos mediantes drive.mount </li>

@@ -1,6 +1,6 @@
 <h1> Hackaton RIIA 2021 'JusticIA para los desaparecidos'</h1>
 
-<h2>Limpieza de imágenes y reconocimiento de objetos BM </h2>
+<h2>Reto 1: Limpieza de imágenes y reconocimiento de objetos.</h2>
 <h3>Nombre del Equipo:</h3>
 <h4> Black Mamba </h4>
 <h3>Integrantes del equipo:</h3>
